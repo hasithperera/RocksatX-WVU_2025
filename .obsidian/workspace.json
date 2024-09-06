@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2024-08-30.md",
+                "file": "Notes/2024-09-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef7d5b1cbac98ea0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2024-08-30.md",
+                "file": "Notes/2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2024-08-30.md",
+                "file": "Notes/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2024-08-30.md"
+                "file": "Notes/2024-09-06.md"
               }
             }
           },
@@ -156,10 +157,12 @@
   },
   "active": "e4a5402b1eb0a9e1",
   "lastOpenFiles": [
+    "Pasted image 20240906165234.png",
+    "Notes/2024-08-30.md",
+    "Notes/2024-09-06.md",
     "README.md",
     "Notes",
     "Untitled 2.canvas",
-    "Notes/2024-08-30.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.md"
