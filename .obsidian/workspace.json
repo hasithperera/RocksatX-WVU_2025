@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "ef7d5b1cbac98ea0",
@@ -157,9 +156,11 @@
   },
   "active": "e4a5402b1eb0a9e1",
   "lastOpenFiles": [
-    "Pasted image 20240906165234.png",
-    "Notes/2024-08-30.md",
+    "Notes/res/Pasted image 20240906195919.png",
     "Notes/2024-09-06.md",
+    "Notes/res",
+    "Notes/res/Pasted image 20240906165234.png",
+    "Notes/2024-08-30.md",
     "README.md",
     "Notes",
     "Untitled 2.canvas",
