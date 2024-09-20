@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/HW selection.md",
+                "file": "Notes/2024-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef7d5b1cbac98ea0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/HW selection.md",
+                "file": "Notes/2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/HW selection.md",
+                "file": "Notes/2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/HW selection.md"
+                "file": "Notes/2024-09-20.md"
               }
             }
           },
@@ -155,10 +156,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "bdf415ad8cf6f64a",
+  "active": "8d16f31dc94ab561",
   "lastOpenFiles": [
-    "Notes/res/Pasted image 20240919104103.png",
     "Notes/HW selection.md",
+    "Notes/2024-09-20.md",
+    "Notes/res/Pasted image 20240919104103.png",
     "Notes/2024-09-13.md",
     "Flight data and spects.md",
     "README.md",
