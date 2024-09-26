@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2024-09-20.md",
+                "file": "Notes/HW selection.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2daf2631616b7edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1893924088e12ec7",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {}
             }
           }
         ]
@@ -69,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "ef7d5b1cbac98ea0",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2024-09-20.md",
+                "file": "Notes/HW selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2024-09-20.md",
+                "file": "Notes/HW selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2024-09-20.md"
+                "file": "Notes/HW selection.md"
               }
             }
           },
@@ -158,10 +171,12 @@
   },
   "active": "8d16f31dc94ab561",
   "lastOpenFiles": [
+    "Notes/Machine Learning for Image Recognition.md",
     "Notes/HW selection.md",
+    "Notes/res/Pasted image 20240926102401.png",
+    "Notes/2024-09-13.md",
     "Notes/2024-09-20.md",
     "Notes/res/Pasted image 20240919104103.png",
-    "Notes/2024-09-13.md",
     "Flight data and spects.md",
     "README.md",
     "Notes/2024-08-30.md",

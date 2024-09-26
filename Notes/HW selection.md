@@ -26,3 +26,9 @@
 			- no unneeded ports
 		- Disadvantages
 			- we have to make a custom carrier board with camera modules, and may be boot SD. not sure. might not be trivial 
+---
+# Raspi Ai kit
+
+![bg left width:600](res/Pasted%20image%2020240926102401.png)
+- found this online on youtube for a comparison on performance from Seed studio 
+- from seed studio email: [Raspi AI kit](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=Bazaar&utm_campaign=3d25078f2d-Bazaar_9_26_24&utm_medium=email&utm_term=0_4b071a49e3-3d25078f2d-51677878&goal=0_4b071a49e3-3d25078f2d-51677878&mc_cid=3d25078f2d&mc_eid=aa5bfcf11b)
