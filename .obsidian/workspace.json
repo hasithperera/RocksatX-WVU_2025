@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2daf2631616b7edb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1893924088e12ec7",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

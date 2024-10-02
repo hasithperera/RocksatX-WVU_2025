@@ -32,3 +32,12 @@
 ![bg left width:600](res/Pasted%20image%2020240926102401.png)
 - found this online on youtube for a comparison on performance from Seed studio 
 - from seed studio email: [Raspi AI kit](https://www.seeedstudio.com/Raspberry-Pi-AI-Kit-p-5900.html?utm_source=Bazaar&utm_campaign=3d25078f2d-Bazaar_9_26_24&utm_medium=email&utm_term=0_4b071a49e3-3d25078f2d-51677878&goal=0_4b071a49e3-3d25078f2d-51677878&mc_cid=3d25078f2d&mc_eid=aa5bfcf11b)
+---
+
+# Raspi cam V2 vs V3
+
+- https://github.com/RidgeRun/NVIDIA-Jetson-IMX708-RPIV3
+- V3 Driver for the nano needs to be figured out. There seems to be support for it but I am not. sure off hand
+- V3 has a IMX708 chip 
+
+---
