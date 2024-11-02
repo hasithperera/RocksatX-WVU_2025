@@ -19,3 +19,10 @@ Test images from raspi
 
 ![300](res/test.jpg)
 
+## Footage and images
+
+- From other balloons
+	- https://www.youtube.com/watch?v=GcBsV4tqL40&t=35s
+	- This shows some stuff and a good chat
+		- I had seen this before our meeting 
+		- https://www.youtube.com/watch?v=JJofuF2zcTE
