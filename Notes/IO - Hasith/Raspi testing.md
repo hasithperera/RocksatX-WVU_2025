@@ -15,7 +15,7 @@
 - Test information with resolution 
 ![](res/Pasted%20image%2020241101222041.png)
 
-Test images
+Test images from raspi
 
 ![300](res/test.jpg)
 
