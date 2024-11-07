@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IO - Hasith/Raspi testing.md",
+                "file": "Notes/IO - Hasith/Jetson testing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Jetson testing"
             }
           },
           {
-            "id": "b0abea4a3f421f74",
+            "id": "76eb8b28d50f89da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IO - Hasith/Jetson testing.md",
+                "file": "Program design.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Program design"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IO - Hasith/Jetson testing.md",
+                "file": "Notes/IO - Hasith/Raspi testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Raspi testing"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IO - Hasith/Jetson testing.md",
+                "file": "Notes/IO - Hasith/Raspi testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Raspi testing"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IO - Hasith/Jetson testing.md"
-              }
+                "file": "Notes/IO - Hasith/Raspi testing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Raspi testing"
             }
           },
           {
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -168,17 +188,28 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "b0abea4a3f421f74",
+  "active": "76eb8b28d50f89da",
   "lastOpenFiles": [
-    "Notes/IO - Hasith/res/Pasted image 20241106192352.png",
-    "Notes/IO - Hasith/Raspi testing.md",
+    "res/Pasted image 20241106201609.png",
+    "res",
     "Notes/IO - Hasith/Jetson testing.md",
-    "Notes/IO - Hasith/res/test1.jpg",
+    "Program design.md",
+    "out/IMX708.tar",
+    "out/IMX708",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_orin_nano/patches/series",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_orin_nano/patches/6.0_orin_nano_imx708_v0.1.0.patch",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_orin_nano/patches/5.1.1_nano_imx708_v0.1.0.patch",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_orin_nano/patches",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_orin_nano",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_nano/patches/series",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/patches_nano/patches/4.6.4_nano_imx708_v0.1.0.patch",
+    "out/NVIDIA-Jetson-IMX708-RPIV3/README.md",
+    "Notes/IO - Hasith/Raspi testing.md",
+    "Notes/IO - Hasith/res/Pasted image 20241106192352.png",
     "Notes/IO - Hasith/res/test.jpg",
+    "Notes/IO - Hasith/res/test1.jpg",
     "Notes/IO - Hasith/res/Pasted image 20241101222041.png",
-    "Notes/IO - Hasith/res",
     "Notes/2024-11-01.md",
-    "Notes/IO - Hasith",
     "Notes/2024-08-30.md",
     "Notes/Machine Learning for Image Recognition.md",
     "Flight data and spects.md",
@@ -190,9 +221,7 @@
     "README.md",
     "Notes/2024-09-06.md",
     "Notes/res/Pasted image 20240906195919.png",
-    "Notes/res",
     "Notes/res/Pasted image 20240906165234.png",
-    "Notes",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

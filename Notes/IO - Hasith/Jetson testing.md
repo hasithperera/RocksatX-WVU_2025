@@ -3,4 +3,5 @@
   
 ![](res/Pasted%20image%2020241106192352.png)
 
-- 
+- IMX708 is the sensor we have
+	- 
