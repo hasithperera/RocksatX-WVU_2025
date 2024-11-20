@@ -26,3 +26,30 @@ Test images from raspi
 	- This shows some stuff and a good chat
 		- I had seen this before our meeting 
 		- https://www.youtube.com/watch?v=JJofuF2zcTE
+
+## Raspi configuration and network configuration 
+
+## login credentials
+
+- user: pi
+- password: raspberry 
+## Wifi
+
+- SSID: Frontier9040
+- PSK: 1093891044
+- ip: DHCP pool in 192.168.254.126-254 (not a fixed ip sorry)
+
+## Access options
+
+- to find the IP
+	- `ifconfig wlan0`
+	- you are looking for a `192.168.254.XXX` style address in the out of the previous command
+	- make sure your computer is connected to the same network
+- SSH is running that is the easiest way to get in
+	- `ssh pi@<ip>`
+- for file transfer you can use scp
+	- `scp <file to be sent> pi@<ip>:<location>`
+## Installing things
+
+- to get internet access turn off the wifi device and plug the raspi in to a WVU network port it will connect itself automatically
+	- check the time on the device to make sure its accurate. This gives you errors often
