@@ -7,7 +7,7 @@
 ## Raspi commands
 
 -  Setting date
-		`date -s "DD/MM/YYYY HH:MM:SS EST"`
+		`date -s <output from date in linux/mac>`
 - configuration for opencv
 
 ### Optical camera
