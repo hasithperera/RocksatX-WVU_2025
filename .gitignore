@@ -1,10 +1,12 @@
 out/*
 .obsidian/workspace.json
 
-*DS_*
+*.DS_*
 
 ## remove src
 
-./src
+src
+*.mat
+
 
 
