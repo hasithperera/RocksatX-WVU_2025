@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IO - Hasith/Raspi testing.md",
+                "file": "Notes/Telemetry system/Telemetry - GHOST 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raspi testing"
+              "title": "Telemetry - GHOST 2025"
             }
           }
         ]
@@ -176,6 +176,11 @@
   },
   "active": "366af3e30f11be1f",
   "lastOpenFiles": [
+    "Notes/2024-11-15.md",
+    "Notes/Telemetry system/Telemetry - GHOST 2025.md",
+    "Notes/Telemetry system",
+    "Notes/Untitled.md",
+    "Notes/IO - Hasith/Raspi testing.md",
     "src/ahe_testing/ahe_9.mat",
     "src/ahe_testing/ahe_8.mat",
     "src/ahe_testing/ahe_7.mat",
@@ -185,13 +190,9 @@
     "src/ahe_testing/ahe_59.mat",
     "src/ahe_testing/ahe_58.mat",
     "src/ahe_testing/ahe_57.mat",
-    "src/ahe_testing/ahe_56.mat",
-    "src/ahe_testing/ahe_55.mat",
     "src/data/test.jpg",
     "Notes/IO - Hasith/2024-11-26.md",
     "Notes/IO - Hasith/Untitled.md",
-    "Notes/IO - Hasith/Raspi testing.md",
-    "Notes/2024-11-15.md",
     "Notes/IO - Hasith/Jetson testing.md",
     "Program design.md",
     "Flight data and spects.md",
