@@ -1,4 +1,10 @@
 out/*
 .obsidian/workspace.json
 
+*DS_*
+
+## remove src
+
+./src
+
 
