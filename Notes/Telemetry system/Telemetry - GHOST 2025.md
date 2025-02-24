@@ -30,7 +30,7 @@
 ### Header spec - Data (non images)
 
 - using a similar format to what they had done in the past
-- 3 bit header/footer: `aZa [exp id] [data] aZa`
+- 3 bit header/footer: `aZa [exp id] [data] SSS`
 	- ***Thoughts ?***
 - data length can be variable and depending on which experiment this should change
 - This can be put in a FIFO data structure capable of parallel access
