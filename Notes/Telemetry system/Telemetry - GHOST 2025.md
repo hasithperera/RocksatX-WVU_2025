@@ -31,7 +31,7 @@
 
 - using a similar format to what they had done in the past
 - 3 bit header/footer: `aZa [exp id] [data] SSS`
-	- Changed the end of packet to not be the same label 
+	- Changed the end of packet to not be the same label - 2025.02.24
 - data length can be variable and depending on which experiment this should change
 - This can be put in a FIFO data structure capable of parallel access
 	- Given the pi runs at MHz speeds we should be able to do it correctly without loss of data
